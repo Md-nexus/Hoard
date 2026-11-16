@@ -63,3 +63,6 @@ Handover.md
 *.jks
 key.properties
 cookies.txt
+
+# Downloaded icon bundle (assets already extracted)
+*.zip

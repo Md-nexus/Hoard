@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon/hoard_icon.png" width="128" alt="Hoard icon"></p>
+
 # Hoard
 
 Save videos from Instagram, TikTok, X and more without leaving the app. Tap **Share**, pick
