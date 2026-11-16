@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 240" width="960" height="240" role="img" aria-label="Share, Hoard, Keep">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b0b3a"/>
+      <stop offset="1" stop-color="#4a1d96"/>
+    </linearGradient>
+    <linearGradient id="c1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff5f6d"/>
+      <stop offset="1" stop-color="#ffc371"/>
+    </linearGradient>
+    <linearGradient id="c2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b2ff7"/>
+      <stop offset="1" stop-color="#f107a3"/>
+    </linearGradient>
+    <linearGradient id="c3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00c9ff"/>
+      <stop offset="1" stop-color="#92fe9d"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="240" rx="28" fill="url(#bg)"/>
+
+  <!-- step 1 -->
+  <rect x="40" y="40" width="250" height="160" rx="22" fill="url(#c1)"/>
+  <text x="165" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#ffffff">1</text>
+  <text x="165" y="135" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Share</text>
+  <text x="165" y="168" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" fill-opacity="0.92">tap Share on any video</text>
+
+  <!-- arrow 1 -->
+  <path d="M300 120 H330 M318 106 L332 120 L318 134" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- step 2 -->
+  <rect x="355" y="40" width="250" height="160" rx="22" fill="url(#c2)"/>
+  <text x="480" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#ffffff">2</text>
+  <text x="480" y="135" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Hoard</text>
+  <text x="480" y="168" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" fill-opacity="0.92">pick Hoard, stay in the app</text>
+
+  <!-- arrow 2 -->
+  <path d="M615 120 H645 M633 106 L647 120 L633 134" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- step 3 -->
+  <rect x="670" y="40" width="250" height="160" rx="22" fill="url(#c3)"/>
+  <text x="795" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#10212b">3</text>
+  <text x="795" y="135" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#10212b">Keep</text>
+  <text x="795" y="168" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#10212b" fill-opacity="0.9">saved to Movies/Hoard</text>
+</svg>
